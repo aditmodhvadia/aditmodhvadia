@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on ... Android, Kotlin, Java, Firebase, Flutter and Dart
 - 🌱 I’m currently learning ... React, Angular, Javascript, Node.JS and AWS
-- 👯 I’m looking to collaborate on ... React, Javascript, NodeJS and Android
+- 👯 I’m looking to collaborate on ... React, Javascript, NodeJS, Docker and Android
 - 💬 Ask me about ... Android, Flutter, Firebase and Kotlin
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/aditmodhvadia)  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103) ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=aditmodhvadia.aditmodhvadia)
