@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/22745804?key=d67e074995a2101694f96e68c6b33b77b85eb9ee27b43da33a8850bbcdce46b3" width="15%"/>
+
 - 🔭 I’m currently working on ... Android, Kotlin, Java, Firebase, Flutter and Dart
 - 🌱 I’m currently learning ... React, Angular, Javascript, Node.JS and AWS
 - 👯 I’m looking to collaborate on ... React, Javascript, NodeJS, Docker and Android
